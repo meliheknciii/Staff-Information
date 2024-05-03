@@ -1,0 +1,10 @@
+C:\Users\cnR19\C#\Personel_Bilgi\Personel_Bilgi\bin\Debug\Personel_Bilgi.exe.config
+C:\Users\cnR19\C#\Personel_Bilgi\Personel_Bilgi\bin\Debug\Personel_Bilgi.exe
+C:\Users\cnR19\C#\Personel_Bilgi\Personel_Bilgi\bin\Debug\Personel_Bilgi.pdb
+C:\Users\cnR19\C#\Personel_Bilgi\Personel_Bilgi\obj\Debug\Personel_Bilgi.csproj.AssemblyReference.cache
+C:\Users\cnR19\C#\Personel_Bilgi\Personel_Bilgi\obj\Debug\Personel_Bilgi.Form1.resources
+C:\Users\cnR19\C#\Personel_Bilgi\Personel_Bilgi\obj\Debug\Personel_Bilgi.Properties.Resources.resources
+C:\Users\cnR19\C#\Personel_Bilgi\Personel_Bilgi\obj\Debug\Personel_Bilgi.csproj.GenerateResource.cache
+C:\Users\cnR19\C#\Personel_Bilgi\Personel_Bilgi\obj\Debug\Personel_Bilgi.csproj.CoreCompileInputs.cache
+C:\Users\cnR19\C#\Personel_Bilgi\Personel_Bilgi\obj\Debug\Personel_Bilgi.exe
+C:\Users\cnR19\C#\Personel_Bilgi\Personel_Bilgi\obj\Debug\Personel_Bilgi.pdb
